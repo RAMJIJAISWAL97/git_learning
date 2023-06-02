@@ -1,1 +1,9 @@
 This is first demo file.
+
+This is change in staging area.
+
+This is change in working directory.
+
+This is new changes in working.
+
+This is final and latest changes in working directory.
